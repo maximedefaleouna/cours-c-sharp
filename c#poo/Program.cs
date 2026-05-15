@@ -1,6 +1,7 @@
 ﻿using c_poo;
 using c_poo.Abstraction;
 using c_poo.Abstraction.Interface;
+using c_poo.Composition;
 using c_poo.Encapsulation;
 using c_poo.Heritage;
 using c_poo.Polymorphisme.methodes;
@@ -147,6 +148,13 @@ class Program
     d.Voler();
     d.Nager();
     d.theOiseau();
+
+
+
+    //// Composition ////
+    
+    Voituree v = new Voituree();
+    v.Demarrer();
 
     }
 }

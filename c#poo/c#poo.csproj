@@ -11,6 +11,7 @@
   <ItemGroup>
     <Folder Include="Abstraction/" />
     <Folder Include="Abstraction/Interface/" />
+    <Folder Include="Composition/" />
     <Folder Include="Encapsulation/" />
     <Folder Include="Heritage/" />
     <Folder Include="Polymorphisme/" />
