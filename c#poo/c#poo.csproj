@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>c_poo</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Abstraction/" />
+    <Folder Include="Abstraction/Interface/" />
+    <Folder Include="Encapsulation/" />
+    <Folder Include="Heritage/" />
+    <Folder Include="Polymorphisme/" />
+    <Folder Include="Polymorphisme/methodes/" />
+    <Folder Include="Polymorphisme/Surcharge/" />
+  </ItemGroup>
+
+</Project>

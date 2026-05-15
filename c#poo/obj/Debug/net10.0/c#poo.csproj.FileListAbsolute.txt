@@ -1,0 +1,14 @@
+/home/maximedefa/donnees/code/c#/c#poo/bin/Debug/net10.0/c#poo
+/home/maximedefa/donnees/code/c#/c#poo/bin/Debug/net10.0/c#poo.deps.json
+/home/maximedefa/donnees/code/c#/c#poo/bin/Debug/net10.0/c#poo.runtimeconfig.json
+/home/maximedefa/donnees/code/c#/c#poo/bin/Debug/net10.0/c#poo.dll
+/home/maximedefa/donnees/code/c#/c#poo/bin/Debug/net10.0/c#poo.pdb
+/home/maximedefa/donnees/code/c#/c#poo/obj/Debug/net10.0/c#poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/maximedefa/donnees/code/c#/c#poo/obj/Debug/net10.0/c#poo.AssemblyInfoInputs.cache
+/home/maximedefa/donnees/code/c#/c#poo/obj/Debug/net10.0/c#poo.AssemblyInfo.cs
+/home/maximedefa/donnees/code/c#/c#poo/obj/Debug/net10.0/c#poo.csproj.CoreCompileInputs.cache
+/home/maximedefa/donnees/code/c#/c#poo/obj/Debug/net10.0/c#poo.dll
+/home/maximedefa/donnees/code/c#/c#poo/obj/Debug/net10.0/refint/c#poo.dll
+/home/maximedefa/donnees/code/c#/c#poo/obj/Debug/net10.0/c#poo.pdb
+/home/maximedefa/donnees/code/c#/c#poo/obj/Debug/net10.0/c#poo.genruntimeconfig.cache
+/home/maximedefa/donnees/code/c#/c#poo/obj/Debug/net10.0/ref/c#poo.dll

@@ -1,0 +1,14 @@
+/home/maximedefa/donnees/code/c#/cours-c#/bin/Debug/net10.0/cours-c#
+/home/maximedefa/donnees/code/c#/cours-c#/bin/Debug/net10.0/cours-c#.deps.json
+/home/maximedefa/donnees/code/c#/cours-c#/bin/Debug/net10.0/cours-c#.runtimeconfig.json
+/home/maximedefa/donnees/code/c#/cours-c#/bin/Debug/net10.0/cours-c#.dll
+/home/maximedefa/donnees/code/c#/cours-c#/bin/Debug/net10.0/cours-c#.pdb
+/home/maximedefa/donnees/code/c#/cours-c#/obj/Debug/net10.0/cours-c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/maximedefa/donnees/code/c#/cours-c#/obj/Debug/net10.0/cours-c#.AssemblyInfoInputs.cache
+/home/maximedefa/donnees/code/c#/cours-c#/obj/Debug/net10.0/cours-c#.AssemblyInfo.cs
+/home/maximedefa/donnees/code/c#/cours-c#/obj/Debug/net10.0/cours-c#.csproj.CoreCompileInputs.cache
+/home/maximedefa/donnees/code/c#/cours-c#/obj/Debug/net10.0/cours-c#.dll
+/home/maximedefa/donnees/code/c#/cours-c#/obj/Debug/net10.0/refint/cours-c#.dll
+/home/maximedefa/donnees/code/c#/cours-c#/obj/Debug/net10.0/cours-c#.pdb
+/home/maximedefa/donnees/code/c#/cours-c#/obj/Debug/net10.0/cours-c#.genruntimeconfig.cache
+/home/maximedefa/donnees/code/c#/cours-c#/obj/Debug/net10.0/ref/cours-c#.dll
